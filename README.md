@@ -73,7 +73,7 @@ Out of the various CPU scheduling algorithms, I have implemented six specific on
 2.**Navigate to the Project Directory**
 
      ```bash
-   git clone https://github.com/your-username/cpu-scheduling.git
+     git clone https://github.com/your-username/cpu-scheduling.git
    
 
 3.**Compile & Run the Program**
