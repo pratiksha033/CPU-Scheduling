@@ -59,7 +59,10 @@ Out of the various CPU scheduling algorithms, I have implemented six specific on
 
 ## 🛠️ Technologies Used
 
-- **Programming Language:** C++  
+- **Technologies Used**
++ JavaScript (55.9%)
++ HTML (28.7%)
++ CSS (15.4%)
 - **Data Structures:** Queues, Priority Queues, and Arrays  
 - **Graphical Representation:** ASCII-based Gantt charts or visualization using a plotting library  
 
