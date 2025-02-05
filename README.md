@@ -108,8 +108,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📩 Contact
 For any queries or contributions, feel free to reach out to me:
-📧 Email: Pratikshaparihar679@gmail.com
-🔗 LinkedIn: http://www.linkedin.com/in/pratiksha033
-🐙 GitHub: https://github.com/pratiksha033
+-📧 Email: Pratikshaparihar679@gmail.com
+-🔗 LinkedIn: http://www.linkedin.com/in/pratiksha033
+-🐙 GitHub: https://github.com/pratiksha033
 
 
